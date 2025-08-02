@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MsvcUserDetailsApplication<msvc-user-details>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.waveghost.user_details.MsvcUserDetailsApplication",
+      "projectName": "msvc-user-details",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
